@@ -1,4 +1,4 @@
-# Akademik Yayıncılık İçin Gerekli Araçlar
+# Akademik Yayıncılık İçin Gerekli Araçlar ve İşlemler
 
 Akademik yayıncılık; kaynak yönetimi, metin yazımı, biçimlendirme ve referansların doğru şekilde sunulmasını gerektirir. Bu süreçte kullanılan araçlar, hem verimliliği artırır hem de uluslararası akademik standartlara uyumu kolaylaştırır. Bu yazıda akademik dünyada yaygın olarak kullanılan **Zotero**, **JabRef**, **LaTeX**, **LyX** ve **BibTeX** araçları ele alınmaktadır.
 
